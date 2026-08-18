@@ -40,3 +40,11 @@ shop_bot/
 - No payment integration — orders are collected and forwarded to the admin manually
 - No order history for customers
 - No admin panel — order management happens via direct Telegram notifications
+
+
+## Screenshots
+
+![Welcome message](screenshots/welcome.jpg)
+![Adding a product](screenshots/add_product.jpg)
+![Order placed](screenshots/order.jpg)
+![Show a catalog].(screenshots/catalog.jpg)
